@@ -1,0 +1,127 @@
+name,id,tournament_id,date,prizepool,Knockout_stage,Knockout_stage_importance,player_1_id,player_1_name,elo_player_1,score_1,player_2_id,player_2_name,elo_player_2,score_2
+Hidden zZ,13368,677,2024-02-13,200.0,Group Stage,1,159,Monoz,1992,0,153,Fedex,2066,2
+Hidden zZ,13369,677,2024-02-16,200.0,Group Stage,1,913,Lucky Rox,2196,2,1201,Mica_,1901,0
+Hidden zZ,13370,677,2024-02-23,200.0,Group Stage,1,913,Lucky Rox,2191,2,159,Monoz,2000,0
+Hidden zZ,13371,677,2024-02-14,200.0,Group Stage,1,1201,Mica_,1899,1,153,Fedex,2072,2
+Hidden zZ,13372,677,2024-02-22,200.0,Group Stage,1,913,Lucky Rox,2190,2,153,Fedex,2070,1
+Hidden zZ,13373,677,2024-02-18,200.0,Group Stage,1,1201,Mica_,1899,0,159,Monoz,1986,2
+Hidden zZ,13374,677,2024-02-13,200.0,Group Stage,1,1332,Lucho,2021,2,1629,Maes,1900,0
+Hidden zZ,13375,677,2024-02-19,200.0,Group Stage,1,1630,Simplik,1903,1,1590,ElMago,1890,2
+Hidden zZ,13376,677,2024-02-14,200.0,Group Stage,1,1629,Maes,1894,1,1630,Simplik,1900,2
+Hidden zZ,13377,677,2024-02-15,200.0,Group Stage,1,1332,Lucho,2027,2,1590,ElMago,1896,0
+Hidden zZ,13378,677,2024-02-22,200.0,Group Stage,1,1629,Maes,1890,1,1590,ElMago,1894,2
+Hidden zZ,13379,677,2024-02-18,200.0,Group Stage,1,1630,Simplik,1904,1,1332,Lucho,2033,2
+Hidden Cup,222,7,,1440.0,K.O. Phase,1,1,DauT,2077,1,2,miguel,1984,3
+Hidden Cup,223,7,,1440.0,K.O. Phase,1,27,Nicov,2102,3,31,TaToH,2154,1
+Hidden Cup,224,7,,1440.0,K.O. Phase,1,19,Yo,2153,2,3,RiuT,2207,3
+Hidden Cup,225,7,,1440.0,K.O. Phase,1,5,F1Re,2071,3,35,vivi,2072,1
+Hidden Cup 2,1312,88,2019-04-12,10200.0,K.O. Phase,1,19,Yo,2140,3,31,TaToH,2180,2
+Hidden Cup 2,1313,88,2019-04-12,10200.0,K.O. Phase,1,52,TheMax,2026,3,30,JorDan_23,2102,0
+Hidden Cup 2,1314,88,2019-04-12,10200.0,K.O. Phase,1,4,dogao,2065,3,51,Villese,2011,1
+Hidden Cup 2,1315,88,2019-04-12,10200.0,K.O. Phase,1,14,ACCM,2039,0,25,Liereyy,2198,3
+Hidden Cup 2,1316,88,2019-04-12,10200.0,K.O. Phase,1,24,MbL,2190,3,1,DauT,2117,1
+Hidden Cup 2,1317,88,2019-04-12,10200.0,K.O. Phase,1,16,BacT,2128,1,33,Tim,2070,3
+Hidden Cup 2,1318,88,2019-04-12,10200.0,K.O. Phase,1,29,TheViper,2340,3,27,Nicov,2096,0
+Hidden Cup 2,1319,88,2019-04-12,10200.0,K.O. Phase,1,35,vivi,2076,3,28,Hera,1998,1
+Hidden Cup 3,2888,163,2020-03-19,50228.0,K.O. Phase,1,35,vivi,2087,0,25,Liereyy,2175,3
+Hidden Cup 3,2889,163,2020-03-19,50228.0,K.O. Phase,1,31,TaToH,2182,3,27,Nicov,2148,1
+Hidden Cup 3,2890,163,2020-03-19,50228.0,K.O. Phase,1,5,F1Re,2078,1,1,DauT,2138,3
+Hidden Cup 3,2891,163,2020-03-19,50228.0,K.O. Phase,1,28,Hera,2213,3,62,LaaaaaN,2044,1
+Hidden Cup 3,2892,163,2020-03-20,50228.0,K.O. Phase,1,29,TheViper,2270,3,14,ACCM,2042,0
+Hidden Cup 3,2893,163,2020-03-20,50228.0,K.O. Phase,1,19,Yo,2212,3,51,Villese,2101,2
+Hidden Cup 3,2894,163,2020-03-20,50228.0,K.O. Phase,1,16,BacT,2092,0,24,MbL,2167,3
+Hidden Cup 3,2895,163,2020-03-20,50228.0,K.O. Phase,1,52,TheMax,2064,0,4,dogao,2070,3
+Hidden Cup 4,4756,253,2021-03-18,87240.0,K.O. Phase,1,14,ACCM,2159,3,79,_Barles_,2087,1
+Hidden Cup 4,4757,253,2021-03-18,87240.0,K.O. Phase,1,30,JorDan_23,2137,3,24,MbL,2197,1
+Hidden Cup 4,4758,253,2021-03-18,87240.0,K.O. Phase,1,55,Vinchester,2211,1,19,Yo,2239,3
+Hidden Cup 4,4759,253,2021-03-18,87240.0,K.O. Phase,1,51,Villese,2198,2,1,DauT,2213,3
+Hidden Cup 4,4760,253,2021-03-19,87240.0,K.O. Phase,1,4,dogao,2176,0,29,TheViper,2293,3
+Hidden Cup 4,4761,253,2021-03-19,87240.0,K.O. Phase,1,35,vivi,2175,1,16,BacT,2166,3
+Hidden Cup 4,4762,253,2021-03-19,87240.0,K.O. Phase,1,31,TaToH,2186,2,28,Hera,2259,3
+Hidden Cup 4,4763,253,2021-03-19,87240.0,K.O. Phase,1,25,Liereyy,2262,3,27,Nicov,2164,1
+GB Hidden Cup 2,12939,655,2023-11-13,254.0,K.O. Phase,1,1602,rgeadn,1900,0,801,steakmaster,1973,3
+GB Hidden Cup 2,12940,655,2023-11-16,254.0,K.O. Phase,1,1603,Aten,1900,1,1060,King_Boo,1956,3
+GB Hidden Cup 2,12941,655,2023-11-14,254.0,K.O. Phase,1,613,_hallis,2022,3,729,DanMT,1987,0
+GB Hidden Cup 2,12942,655,2023-11-17,254.0,K.O. Phase,1,1123,dave_hun,1971,3,1116,Toady,1906,1
+GB Hidden Cup 2,12943,655,2023-11-18,254.0,K.O. Phase,1,166,Fayt,1984,3,663,Chris Pelham,1889,0
+GB Hidden Cup 2,12944,655,2023-11-19,254.0,K.O. Phase,1,753,darvoi,1921,3,1228,Capy,1893,2
+GB Hidden Cup 2,12945,655,2023-11-19,254.0,K.O. Phase,1,1078,Breakfast,1886,0,1093,Ted,2002,3
+GB Hidden Cup 2,12946,655,2023-11-19,254.0,K.O. Phase,1,1185,Aristocats,1896,0,1342,Lewis333,1991,0
+Hidden Cup 5,13338,674,2024-02-25,70624.0,K.O. Phase,1,28,Hera,2519,4,79,_Barles_,2325,2
+Hidden Cup 5,13339,674,2024-02-25,70624.0,K.O. Phase,1,30,JorDan_23,2395,4,878,Mihai06,2207,1
+Hidden Cup 5,13341,674,2024-02-26,70624.0,K.O. Phase,1,26,Hearttt,2305,3,24,MbL,2293,4
+Hidden Cup 5,13342,674,2024-02-26,70624.0,K.O. Phase,1,31,TaToH,2449,0,14,ACCM,2353,4
+Hidden Cup 5,13343,674,2024-02-27,70624.0,K.O. Phase,1,1,DauT,2387,4,55,Vinchester,2297,2
+Hidden Cup 5,13344,674,2024-02-27,70624.0,K.O. Phase,1,29,TheViper,2449,4,19,Yo,2414,1
+Hidden Cup 5,13346,674,2024-02-28,70624.0,K.O. Phase,1,936,Sebastian2002,2287,2,12,Sitaux,2326,4
+Hidden Cup 5,13347,674,2024-02-28,70624.0,K.O. Phase,1,25,Liereyy,2368,4,458,Ganji,2198,1
+Hidden Cup,226,7,,1440.0,Quarter-Finals,2,25,Liereyy,2181,2,2,miguel,1996,3
+Hidden Cup,227,7,,1440.0,Quarter-Finals,2,29,TheViper,2290,3,27,Nicov,2114,0
+Hidden Cup,228,7,,1440.0,Quarter-Finals,2,24,MbL,2161,3,3,RiuT,2206,2
+Hidden Cup,229,7,,1440.0,Quarter-Finals,2,32,slam,2043,3,5,F1Re,2079,1
+Hidden Cup 2,1320,88,2019-04-13,10200.0,Quarter-Finals,2,19,Yo,2144,1,52,TheMax,2041,3
+Hidden Cup 2,1321,88,2019-04-13,10200.0,Quarter-Finals,2,4,dogao,2069,2,25,Liereyy,2204,3
+Hidden Cup 2,1322,88,2019-04-13,10200.0,Quarter-Finals,2,24,MbL,2194,3,33,Tim,2082,0
+Hidden Cup 2,1323,88,2019-04-13,10200.0,Quarter-Finals,2,29,TheViper,2346,3,35,vivi,2080,0
+Hidden Cup 3,2896,163,2020-03-21,50228.0,Quarter-Finals,2,25,Liereyy,2184,2,31,TaToH,2190,3
+Hidden Cup 3,2897,163,2020-03-21,50228.0,Quarter-Finals,2,1,DauT,2142,2,28,Hera,2213,3
+Hidden Cup 3,2898,163,2020-03-21,50228.0,Quarter-Finals,2,29,TheViper,2276,3,19,Yo,2211,1
+Hidden Cup 3,2899,163,2020-03-21,50228.0,Quarter-Finals,2,24,MbL,2176,2,4,dogao,2082,3
+Hidden Cup 4,4764,253,2021-03-20,87240.0,Quarter-Finals,2,14,ACCM,2163,1,30,JorDan_23,2149,3
+Hidden Cup 4,4765,253,2021-03-20,87240.0,Quarter-Finals,2,19,Yo,2247,3,1,DauT,2217,1
+Hidden Cup 4,4766,253,2021-03-20,87240.0,Quarter-Finals,2,29,TheViper,2302,3,16,BacT,2174,0
+Hidden Cup 4,4767,253,2021-03-20,87240.0,Quarter-Finals,2,28,Hera,2258,3,25,Liereyy,2266,1
+Hidden Cup Italia,5233,284,2021-05-08,947.0,Quarter-Finals,2,129,Vodka_L,2078,3,987,Italian_Meme,1900,0
+Hidden Cup Italia,5234,284,2021-05-08,947.0,Quarter-Finals,2,754,Shades,1989,1,503,pete_martell,1986,3
+Hidden Cup Italia,5235,284,2021-05-08,947.0,Quarter-Finals,2,446,Kamigawa,1983,3,988,Sir_Hellequinn,2000,0
+Hidden Cup Italia,5236,284,2021-05-08,947.0,Quarter-Finals,2,619,Rise,1952,3,989,Zuccolo,2000,0
+GB Hidden Cup 2,12947,655,2023-11-22,254.0,Quarter-Finals,2,801,steakmaster,1982,2,1060,King_Boo,1960,3
+GB Hidden Cup 2,12948,655,2023-11-23,254.0,Quarter-Finals,2,613,_hallis,2034,3,1123,dave_hun,1975,2
+GB Hidden Cup 2,12949,655,2023-11-24,254.0,Quarter-Finals,2,166,Fayt,1993,0,753,darvoi,1925,3
+GB Hidden Cup 2,12950,655,2023-11-26,254.0,Quarter-Finals,2,1093,Ted,2011,3,1185,Aristocats,1896,1
+Road to Hidden Cup Italia - Autunno,12955,657,2023-12-10,154.0,Quarter-Finals,2,446,Kamigawa,1977,3,989,Zuccolo,1954,0
+Road to Hidden Cup Italia - Autunno,12956,657,2023-12-05,154.0,Quarter-Finals,2,129,Vodka_L,2116,3,1604,The_Italian_Lawyer,1900,0
+Road to Hidden Cup Italia - Autunno,12957,657,2023-12-07,154.0,Quarter-Finals,2,503,pete_martell,1989,0,1183,salsicciotto1999,1992,3
+Road to Hidden Cup Italia - Autunno,12958,657,2023-12-08,154.0,Quarter-Finals,2,1229,Mettiu,1959,0,454,RaiD,1952,0
+Hidden Cup 5,13348,674,2024-02-29,70624.0,Quarter-Finals,2,28,Hera,2515,4,30,JorDan_23,2397,0
+Hidden Cup 5,13349,674,2024-02-29,70624.0,Quarter-Finals,2,24,MbL,2297,2,14,ACCM,2373,4
+Hidden Cup 5,13350,674,2024-03-01,70624.0,Quarter-Finals,2,1,DauT,2389,2,29,TheViper,2461,4
+Hidden Cup 5,13351,674,2024-03-01,70624.0,Quarter-Finals,2,12,Sitaux,2334,1,25,Liereyy,2370,4
+Hidden Cup Türkiye,13546,689,2024-03-26,2316.0,Quarter-Finals,2,195,Kasva,2081,4,1639,BoomcuMülayim,1900,0
+Hidden Cup Türkiye,13547,689,2024-03-27,2316.0,Quarter-Finals,2,723,ronotovi,1950,4,765,GLX_Rusher,1961,1
+Hidden Cup Türkiye,13548,689,2024-03-26,2316.0,Quarter-Finals,2,900,Ubetnir,1936,2,886,Dr.Kozmonot,2038,4
+Hidden Cup Türkiye,13549,689,2024-03-27,2316.0,Quarter-Finals,2,1327,Hackali,1858,1,983,SonyToprano,1983,4
+Hidden Cup,230,7,,1440.0,Semi-Finals,3,2,miguel,2010,0,29,TheViper,2296,3
+Hidden Cup,231,7,,1440.0,Semi-Finals,3,24,MbL,2170,3,32,slam,2051,1
+Hidden Cup 2,1324,88,2019-04-14,10200.0,Semi-Finals,3,52,TheMax,2053,3,33,Tim,2073,1
+Hidden Cup 2,1325,88,2019-04-14,10200.0,Semi-Finals,3,24,MbL,2203,1,29,TheViper,2349,3
+Hidden Cup 3,2900,163,2020-03-22,50228.0,Semi-Finals,3,31,TaToH,2194,1,28,Hera,2212,4
+Hidden Cup 3,2901,163,2020-03-22,50228.0,Semi-Finals,3,29,TheViper,2280,4,4,dogao,2091,1
+Hidden Cup 4,4768,253,2021-03-21,87240.0,Semi-Finals,3,30,JorDan_23,2157,4,19,Yo,2255,1
+Hidden Cup 4,4769,253,2021-03-21,87240.0,Semi-Finals,3,29,TheViper,2311,3,28,Hera,2266,4
+Hidden Cup Italia,5237,284,2021-05-16,947.0,Semi-Finals,3,129,Vodka_L,2093,3,503,pete_martell,1994,1
+Hidden Cup Italia,5238,284,2021-05-15,947.0,Semi-Finals,3,446,Kamigawa,1995,2,619,Rise,1967,3
+GB Hidden Cup 2,12951,655,2023-11-28,254.0,Semi-Finals,3,1060,King_Boo,1964,3,613,_hallis,2033,4
+GB Hidden Cup 2,12952,655,2023-11-30,254.0,Semi-Finals,3,753,darvoi,1940,4,1093,Ted,2015,1
+Road to Hidden Cup Italia - Autunno,12959,657,2023-12-14,154.0,Semi-Finals,3,446,Kamigawa,1989,1,129,Vodka_L,2122,3
+Road to Hidden Cup Italia - Autunno,12960,657,2023-12-14,154.0,Semi-Finals,3,1183,salsicciotto1999,2004,3,454,RaiD,1952,0
+Hidden Cup 5,13352,674,2024-03-02,70624.0,Semi-Finals,3,28,Hera,2527,4,14,ACCM,2375,2
+Hidden Cup 5,13353,674,2024-03-02,70624.0,Semi-Finals,3,29,TheViper,2463,1,25,Liereyy,2382,4
+Hidden zZ,13380,677,2024-02-27,200.0,Semi-Finals,3,913,Lucky Rox,2195,3,1590,ElMago,1898,1
+Hidden zZ,13381,677,2024-02-25,200.0,Semi-Finals,3,1332,Lucho,2026,1,153,Fedex,2069,3
+Hidden Cup Türkiye,13512,689,2024-03-29,2316.0,Semi-Finals,3,195,Kasva,2089,4,723,ronotovi,1962,0
+Hidden Cup Türkiye,13513,689,2024-03-29,2316.0,Semi-Finals,3,886,Dr.Kozmonot,2040,4,983,SonyToprano,1990,0
+Hidden Cup,232,7,,1440.0,Finale,4,29,TheViper,2299,4,24,MbL,2174,2
+Hidden Cup 2,1326,88,2019-04-14,10200.0,Finale,4,52,TheMax,2061,3,29,TheViper,2349,4
+Hidden Cup 3,2902,163,2020-03-22,50228.0,Finale,4,28,Hera,2224,0,29,TheViper,2282,4
+Hidden Cup 4,4770,253,2021-03-21,87240.0,Finale,4,30,JorDan_23,2174,1,28,Hera,2277,4
+Hidden Cup Italia,5240,284,2021-05-19,947.0,Finale,4,129,Vodka_L,2097,4,619,Rise,1971,0
+GB Hidden Cup 2,12953,655,2023-12-03,254.0,Finale,4,613,_hallis,2030,4,753,darvoi,1957,1
+Road to Hidden Cup Italia - Autunno,13034,657,2023-12-19,154.0,Finale,4,129,Vodka_L,2126,1,1183,salsicciotto1999,2013,4
+Hidden Cup 5,13355,674,2024-03-03,70624.0,Finale,4,28,Hera,2523,4,25,Liereyy,2399,0
+Hidden zZ,13382,677,2024-03-04,200.0,Finale,4,913,Lucky Rox,2203,3,153,Fedex,2077,2
+Hidden Cup Türkiye,13514,689,2024-03-30,2316.0,Finale,4,195,Kasva,2101,5,886,Dr.Kozmonot,2052,3
+Hidden Cup Italia,5239,284,2021-05-16,947.0,Bronze-Match,3,503,pete_martell,1990,2,446,Kamigawa,1989,3
+Hidden Cup 5,13354,674,2024-03-03,70624.0,Bronze-Match,3,14,ACCM,2379,1,29,TheViper,2446,3
+Hidden zZ,13383,677,2024-03-04,200.0,Bronze-Match,3,1590,ElMago,1902,0,1332,Lucho,2018,2
+Hidden Cup Türkiye,13550,689,2024-03-30,2316.0,Bronze-Match,3,723,ronotovi,1950,1,983,SonyToprano,1978,3

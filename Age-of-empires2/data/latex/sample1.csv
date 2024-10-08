@@ -1,0 +1,11 @@
+name,id,tournament_id,date,prizemoney,Knockout_stage,Knockout_stage_importance,player_1_id,player_1_name,elo_player_1,score_1,player_2_id,player_2_name,elo_player_2,score_2
+Arabia Invitational,1,15,2016-02-01,3000.0,Group Stage,1,29,TheViper,2282,3,18,St4rk,2051,2
+Arabia Invitational,2,15,2016-02-01,3000.0,Group Stage,1,50,Zuppi,2039,3,28,Hera,1999,2
+Arabia Invitational,3,15,2016-02-01,3000.0,Group Stage,1,35,vivi,1992,2,54,yinghua,2054,3
+Arabia Invitational,4,15,2016-02-08,3000.0,Group Stage,1,29,TheViper,2276,3,50,Zuppi,2043,2
+Arabia Invitational,5,15,2016-02-08,3000.0,Group Stage,1,18,St4rk,2057,3,35,vivi,1993,1
+Arabia Invitational,6,15,2016-02-15,3000.0,Group Stage,1,18,St4rk,2061,3,54,yinghua,2053,1
+Arabia Invitational,7,15,2016-02-15,3000.0,Group Stage,1,35,vivi,1989,0,50,Zuppi,2049,3
+Arabia Invitational,8,15,2016-02-22,3000.0,Group Stage,1,29,TheViper,2272,3,54,yinghua,2045,2
+Arabia Invitational,9,15,2016-02-22,3000.0,Group Stage,1,18,St4rk,2069,3,50,Zuppi,2058,1
+Arabia Invitational,10,15,2016-02-29,3000.0,Group Stage,1,29,TheViper,2268,3,35,vivi,1980,1
